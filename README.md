@@ -15,4 +15,3 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </ div>
 
-![snake gif](https://github.com/renancasalle/renancasalle/blob/output/github-contribution-grid-snake.svg)
