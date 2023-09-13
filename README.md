@@ -4,7 +4,11 @@
 
 ##
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renancasalle&show_icons=true&theme=radical)
+<div>
+<a href="https://beacons.ai/renancasalle">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renancasalle&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancasalle&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 ##
 
