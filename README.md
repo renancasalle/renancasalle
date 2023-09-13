@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Renan Casalle 👋
+### Olá! Meu nome é Renan Casalle 👋
 
 ##
 
