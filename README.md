@@ -16,19 +16,19 @@
 
 
 <div align="center"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44em">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44em">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="44em"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="44em">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="44em">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="44em">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44em">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="44em"> 
-    
+<img src="https://skillicons.dev/icons?i=javascript" height="46em">
+<img src="https://skillicons.dev/icons?i=nodejs" height="46em">
+<img src="https://skillicons.dev/icons?i=mysql" height="46em">
+<img src="https://skillicons.dev/icons?i=java" height="46em">
+<img src="https://skillicons.dev/icons?i=spring" height="46em">
+<img src="https://skillicons.dev/icons?i=python" height="46em">
+<img src="https://skillicons.dev/icons?i=react" height="46em">
+<img src="https://skillicons.dev/icons?i=tailwind" height="46em">
 
 <div align="center"><br>
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-casalle-99489b267/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renan-casalle-99489b267/)
+
 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D82148&height=120&section=footer"/>
