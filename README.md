@@ -25,6 +25,7 @@
 <img src="https://skillicons.dev/icons?i=spring" height="46em">
 <img src="https://skillicons.dev/icons?i=python" height="46em">
 <img src="https://skillicons.dev/icons?i=mysql" height="46em">
+<img src="https://skillicons.dev/icons?i=postgres" height="46em">
 <div align="center"><br>
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renan-casalle-99489b267/)
