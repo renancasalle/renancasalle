@@ -19,12 +19,12 @@
 <img src="https://skillicons.dev/icons?i=react" height="46em">
 <img src="https://skillicons.dev/icons?i=tailwind" height="46em">
 <img src="https://skillicons.dev/icons?i=typescript" height="46em">
-<img src="https://skillicons.dev/icons?i=javascript" height="46em">
 <img src="https://skillicons.dev/icons?i=nodejs" height="46em">
 <img src="https://skillicons.dev/icons?i=java" height="46em">
 <img src="https://skillicons.dev/icons?i=kotlin" height="46em">
 <img src="https://skillicons.dev/icons?i=spring" height="46em">
 <img src="https://skillicons.dev/icons?i=python" height="46em">
+<img src="https://skillicons.dev/icons?i=go" height="46em">
 <img src="https://skillicons.dev/icons?i=mysql" height="46em">
 <img src="https://skillicons.dev/icons?i=postgres" height="46em">
 <img src="https://skillicons.dev/icons?i=terraform" height="46em">
